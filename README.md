@@ -18,8 +18,8 @@ de dados para processamento ou armazenamento em formatos legíveis e compatívei
 
 ## Formatos de Saída:
 
-  * *Markdown* (.md)
-  * *JSON* (.json)
+       Markdown (.md)
+       JSON (.json)
 
 * **Análise Dinâmica:** Carrega dinamicamente parsers específicos para cada tipo de arquivo.
 * **Tratamento de Erros:** Gerencia exceções de forma robusta, garantindo que arquivos inválidos ou tipos não suportados sejam tratados adequadamente.
